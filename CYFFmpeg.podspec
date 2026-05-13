@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
                    include x264, fdk-aac, smbclient, and cmdutils for ffmpeg.
                    DESC
 
-  s.homepage     = "https://github.com/yellowei/CYFFmpeg"
+  s.homepage     = "https://github.com/Jvaeyhcd/CYFFmpeg"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -82,7 +82,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/yellowei/CYFFmpeg.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/Jvaeyhcd/CYFFmpeg.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
